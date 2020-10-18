@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">LogisticApp</string>
+    <string name="take_picture">Capture</string>
 </resources>
